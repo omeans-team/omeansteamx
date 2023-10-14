@@ -1,10 +1,10 @@
 {
-    "name": "Omeans Team",
+    "name": "omeans-team",
     "description": "Website Omeans",
-    "type": "omeansweb",
+    "type": "cms",
     "authors": [
         {
-            "name": "erisu aya",
+            "name": "erisuaya",
             "email": "aris.hadisopiyan@gmail.com"
         }
     ],
